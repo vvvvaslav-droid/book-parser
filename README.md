@@ -12,7 +12,7 @@
 4. Результат появится в файле `books.csv`.
 
 ## 📸 Пример работы
-Пример:
+Пример: https://github.com/vvvvaslav-droid/book-parser/blob/main/image.png
 
 ## 📂 Структура
 - `parser.py` — основной код
